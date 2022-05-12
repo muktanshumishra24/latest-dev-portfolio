@@ -261,6 +261,6 @@ export const projects = [
 	{
 		name: "Personal Portfolio",
 		desc: "My Personal portfolio using nextjs, covers all my tech information and other required stuff.",
-		link: "https://muktanshu-mishra.xyz/",
+		link: "https://www.muktanshu.me/",
 	},
 ];
